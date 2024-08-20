@@ -4,9 +4,6 @@
   <a href="https://github.com/kyaoNK/kyaoNK/">
     <img src="https://komarev.com/ghpvc/?username=kyaoNK" alt="kyaoNK" />
   </a>
-  <a href="http://twitter.com/kyao_0_">
-    <img height="20" src="https://img.shields.io/twitter/follow/kyao_0_?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/kyaoNK">
     <img height="20" src="https://img.shields.io/github/followers/kyaoNK?label=follow&logo=github&style=flat" />
   </a>
