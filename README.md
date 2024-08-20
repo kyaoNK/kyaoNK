@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/kyaoNK/kyaoNK/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="kyaoNK" />
+    <img src="https://komarev.com/ghpvc/?username=kyaoNK" alt="kyaoNK" />
   </a>
   <a href="http://twitter.com/kyao_0_">
     <img height="20" src="https://img.shields.io/twitter/follow/kyao_0_?label=Twitter&logo=twitter&style=flat" />
@@ -13,7 +13,7 @@
   <a href="http://qiita.com/kyaon">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kyaon/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
+  <//qiita.com/kyaon">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kyaon/contributions.svg" />
   </a>
 </p>
