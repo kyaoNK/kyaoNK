@@ -21,4 +21,4 @@
 
 ![](https://skillicons.dev/icons?i=docker,html,css,ts,py,pytorch,discord,bots,latex,md,notion,vscode,ps,pr)
 
-![](https://raw.githubusercontent.com/kyaoNK/kyaoNK/output/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/kyaoNK/kyaoNK/output/github-contribution-grid-snake.svg
