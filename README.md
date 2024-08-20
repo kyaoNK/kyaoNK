@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey, Nice to see you!🙏 
+### About Me
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
-
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyaoNK&theme=date_night)
