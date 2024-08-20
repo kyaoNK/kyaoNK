@@ -21,6 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
 
 <h3 align="left">Languages and Tools:</h3>
-![](https://skillicons.dev/icons?i=docker,html,css,ts,py,pytorch,discord,bots,latex,md,notion,vscode,obsidian,ps,pr)
+
+![](https://skillicons.dev/icons?i=docker,html,css,ts,py,pytorch,discord,bots,latex,md,notion,vscode,ps,pr)
 
 
