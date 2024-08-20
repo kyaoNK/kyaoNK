@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ### Hey, Nice to see you!🙏 
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
