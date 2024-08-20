@@ -17,8 +17,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 ![](https://skillicons.dev/icons?i=docker,html,css,ts,py,pytorch,discord,bots,latex,md,notion,vscode,ps,pr)
 
-https://raw.githubusercontent.com/kyaoNK/kyaoNK/output/github-contribution-grid-snake.svg
+### Stats
+![](https://raw.githubusercontent.com/kyaoNK/kyaoNK/output/github-contribution-grid-snake.svg)
